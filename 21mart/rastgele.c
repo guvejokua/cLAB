@@ -9,7 +9,7 @@ int main(void) {
   srand(time(NULL));    //Rastgele sayı üretme çekirdeği
   /*
   Eğer srand() fonksiyonu kullanılmazsa her defasında aynı rastgele sayılara üretilir. Çünkü rand() fonksiyonu
-  aynı çekirdekten çalışmıştır. Burada rand() fonksiyonunun çekirdeğini değiştirmek için stdlin.h içinde
+  aynı çekirdekten çalışmıştır. Burada rand() fonksiyonunun çekirdeğini değiştirmek için stdlib.h içinde
   void srand(unsigned int) biçiminde tanımlı çekirdek fonksiyonu kullanılır. Burada kullanılan time(NULL) ifadesi
   program her çalıştığında farklı çekirdekler üretmesini sağlar
   */
