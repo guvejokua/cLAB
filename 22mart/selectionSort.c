@@ -1,3 +1,5 @@
+//IEEE Giresun SB
+//Selection Sort Algorithm
 //Yer değiştimelerin hepsini yapmak için gerekli döngü
 #include <stdio.h>
 #define BOY 5     //BOY adında dizi boyutu için sabit tanımlanıyor
