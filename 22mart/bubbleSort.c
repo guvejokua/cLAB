@@ -1,3 +1,5 @@
+//IEEE Giresun SB
+//Bubble Sort Algorithm
 #include <stdio.h>
 #include <stdlib.h>     //rand() ve srand() için stdlib kütüphanesi ekleniyor
 #define BOYUT 100000    //BOYUT ismindi dizi boyutu için sabit tanımlanıyor
